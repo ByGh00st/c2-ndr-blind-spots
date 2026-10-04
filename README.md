@@ -1,5 +1,8 @@
 # The Evolution of Command-and-Control (C2) Traffic and NDR Blind Spots
 
+> [!IMPORTANT]
+> The primary research repository is [ByGh00st/c2-timing-ndr-blindspots](https://github.com/ByGh00st/c2-timing-ndr-blindspots). It contains the full technical README, mathematical explanations, architecture diagram, engineering artifacts, and [finalized v1.0 release](https://github.com/ByGh00st/c2-timing-ndr-blindspots/releases/tag/v1.0). Use that repository for the research and future updates. This repository retains a publication copy.
+
 ### Advanced Blue Team Tactics Against Shaped Timing Dynamics
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23141650.svg)](https://doi.org/10.5281/zenodo.23141650)

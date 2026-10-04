@@ -1,5 +1,8 @@
 [English README](README.md)
 
+> [!IMPORTANT]
+> Ana araştırma deposu [ByGh00st/c2-timing-ndr-blindspots](https://github.com/ByGh00st/c2-timing-ndr-blindspots) adresindedir. Ayrıntılı teknik README, matematiksel açıklamalar, mimari diyagram, teknik araçlar ve [nihai v1.0 yayını](https://github.com/ByGh00st/c2-timing-ndr-blindspots/releases/tag/v1.0) bu depoda yer alır. Araştırma ve sonraki güncellemeler için ana depoyu kullanın. Bu depo, yayının bir kopyasını barındırır.
+
 # Komuta-Kontrol (C2) Trafiğinin Evrimi ve NDR Kör Noktaları
 
 ### Şekillendirilmiş Zamanlama Dinamiklerine Karşı İleri Düzey Mavi Takım Taktikleri
