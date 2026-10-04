@@ -1,0 +1,41 @@
+# Only the two finalized publication copies belong in version control.
+*.pdf
+!publications/ByGhost-C2-NDR-Technical-Report-TR-v1.0.pdf
+!publications/ByGhost-C2-NDR-Technical-Report-EN-v1.0.pdf
+
+# Secrets and local configuration
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+
+# Editor, agent, and operating-system files
+.idea/
+.vscode/
+.codex/
+.claude/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+~$*
+
+# Drafts, exports, caches, and temporary work
+*.doc
+*.docx
+*.tmp
+*.temp
+*.bak
+*.log
+*.zip
+__pycache__/
+.cache/
+node_modules/
+tmp/
+temp/
+drafts/
+output/
